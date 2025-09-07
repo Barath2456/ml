@@ -1,1 +1,1 @@
-print("kishor chutiya")
+print("kishor mairu")
